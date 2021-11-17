@@ -1150,5 +1150,7 @@ https://user-images.githubusercontent.com/45881567/140785023-2e957ef2-1a69-4302-
 Ci-dessous quelques variantes montrant les zones d'enquête du projet ANR Modural
 ![](https://i.imgur.com/LbbOskt.gif)
 
-<iframe height="900" width="720" src="https://sharedocs.huma-num.fr/wl/?id=e7rdfT4y2XKubMTEbIDfSyVDbiYUWGUN"></iframe>
+
+https://user-images.githubusercontent.com/45881567/142209019-1c493130-c710-45ff-b98e-9e394f6dc167.mp4
+
 
